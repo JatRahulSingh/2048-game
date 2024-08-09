@@ -1,6 +1,6 @@
 # 2048-game
-The game 2048 is a single-player sliding tile puzzle video game 
-Using 2d Array has the data structure.
+The game 2048 is a single-player sliding tile puzzle video game.<br>
+Using 2d Array as the data structure.
 
 
 DEMO:<br>
